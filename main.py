@@ -12,7 +12,7 @@ import os
 import random
 from pygame.time import get_ticks
 
-# Pygame initialization
+# Pygame
 init()
 
 # Setting screen size and environment settings
